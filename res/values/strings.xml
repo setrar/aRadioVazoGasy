@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="logo">RadioVazoGasy</string>
+    <string name="app_name">RadioVazoGasy</string>
+    <string name="play">Mandefa</string>
+    <string name="error_cannot_connect">Tsy afaka mifandrefy any RadioToko3.  Misy Internet ve ?</string>
+    <string name="menu_quit">Mivaoka</string>
+    <string name="menu_send_email">Mandefa TarasEl</string>
+</resources>

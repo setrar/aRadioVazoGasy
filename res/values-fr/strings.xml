@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="logo">RadioVazoGasy</string>
+    <string name="app_name">RadioVazoGasy</string>
+    <string name="donate">Donner</string>
+    <string name="play">Ecouter</string>
+    <string name="error_cannot_connect">Impossible de se connecter.  Est-ce que le réseau est actif ?</string>
+    <string name="menu_quit">Quitter l\'application</string>
+    <string name="menu_send_email">Envoyez un email</string>
+</resources>
