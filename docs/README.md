@@ -66,5 +66,8 @@ Parsing /Users/valiha/Library/Android/sdk/system-images/android-30/google_apis/x
 Parsing /Users/valiha/Library/Android/sdk/tools/package.xml
 Android SDK is up to date.
 Running Intel® HAXM installer
+Silent installation Pass! 
+Creating Android virtual device
+Android virtual device Pixel_3a_API_30_x86 was successfully created
 
 ```
